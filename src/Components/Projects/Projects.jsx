@@ -2,7 +2,7 @@ import ProjectsCards from "./ProjectsCards";
 
 const Projects = () => {
   return (
-    <div>
+    <div className="lg:h-[50vh]">
       <div id="/projects">
         <h3 className=" text-center text-5xl my-7 md:text-6xl font-semibold">
           Projects

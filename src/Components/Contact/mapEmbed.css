@@ -1,0 +1,18 @@
+.map-container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 10px;
+  }
+  
+  iframe {
+    width: 500px;
+    height: 420px; /* Maintain the height for larger screens */
+  }
+  
+  @media (max-width: 600px) {
+    iframe {
+        width: 350px;
+      height: 300px; /* Adjust height for smaller devices */
+    }
+  }
+  

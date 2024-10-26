@@ -7,7 +7,7 @@ import Footer from "./Components/Footer/Footer";
 function App() {
   return (
     <div>
-      <div className="max-w-6xl mx-auto">
+      <div className="max-w-7xl mx-auto md:max-w-5xl">
         <div
           data-aos="fade-right"
           data-aos-offset="300"
